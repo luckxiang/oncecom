@@ -1,0 +1,17 @@
+{
+    "defaultName": "debug_relay",
+    "configs":[
+        {
+            "name": "debug_relay",
+            "echoCheck": "boot",
+            "saveLogPath": "/home/luckyxiang",
+            "uartDevicePath": "/dev/ttyUSB0",
+            "speed": "115200",
+            "dataBit": "8",
+            "stopBit": "1",
+            "parityBit": "no"
+        },
+    ]
+}
+
+
